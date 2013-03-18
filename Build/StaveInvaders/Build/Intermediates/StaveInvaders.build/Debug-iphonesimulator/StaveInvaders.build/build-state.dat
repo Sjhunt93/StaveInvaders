@@ -1,0 +1,361 @@
+TStaveInvaders
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist StaveInvaders/StaveInvaders-Info.plist
+cProcessPCH /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-efhmxybxajelmraglrtivysmlztj/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_AppDelegate.o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_ViewController.o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_GUIHandler.o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_GUIHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders normal i386
+cGenerateDSYMFile /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders
+cCopyStringsFile /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/InfoPlist.strings StaveInvaders/en.lproj/InfoPlist.strings
+cCpResource StaveInvaders/Default.png Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default.png
+cCpResource StaveInvaders/Default@2x.png Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default@2x.png
+cCpResource StaveInvaders/Default-568h@2x.png Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default-568h@2x.png
+cCpResource StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPhone.storyboard
+cCpResource StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPad.storyboard
+cTouch /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c000000005106806A0000000000000110
+t1359380586
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000508546370000000000228FD0
+t1350911543
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005085463800000000003DCEF0
+t1350911544
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005085463800000000000015F7
+t1350911544
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000005085463B0000000000000E8D
+t1350911547
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005085463C0000000000AB3D60
+t1350911548
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c000000005085464F0000000000001B54
+t1350911567
+s6996
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-efhmxybxajelmraglrtivysmlztj/StaveInvaders-Prefix.pch.pth
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_AppDelegate.o
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_GUIHandler.o
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_ViewController.o
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/StaveInvaders.LinkFileList
+c00000000514722560000000000000384
+t1363616342
+s900
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default-568h@2x.png
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default.png
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default@2x.png
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/PkgInfo
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPad.storyboard
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPhone.storyboard
+t2
+s0
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/Default-568h@2x.png
+c00000000514721D600000000000048A2
+t1363616214
+s18594
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/Default.png
+c00000000514721D6000000000000198C
+t1363616214
+s6540
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/Default@2x.png
+c00000000514721D60000000000003EEB
+t1363616214
+s16107
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_AppDelegate.m
+c00000000514721D600000000000007DE
+t1363616214
+s2014
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_GUIHandler.m
+c000000005147225200000000000000CC
+t1363616338
+s204
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_ViewController.m
+c00000000514721D600000000000001F7
+t1363616214
+s503
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/StaveInvaders-Prefix.pch
+c00000000514721D60000000000000149
+t1363616214
+s329
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/en.lproj/InfoPlist.strings
+c00000000514721D6000000000000002D
+t1363616214
+s45
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard
+c00000000514721D60000000000000620
+t1363616214
+s1568
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard
+c00000000514721D60000000000000606
+t1363616214
+s1542
+
+N/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/main.m
+c00000000514721D60000000000000154
+t1363616214
+s340
+
+NStaveInvaders/StaveInvaders-Info.plist
+c00000000514721D60000000000000645
+t1363616214
+s1605
+
+CBuild AST from /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_AppDelegate.m
+r0
+
+CBuild AST from /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_GUIHandler.m
+r0
+
+CBuild AST from /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_ViewController.m
+r0
+
+CBuild AST from /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesfa4773d659f7b641^09539cd659f7b641^---0#1#0#--18"Check dependencies36"6DDD0489-5A88-4FB5-A7CA-34B5A9B00FD9-
+
+CCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_AppDelegate.o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385309143.124978
+e385309143.328974
+r1
+xCompileC
+xBuild/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_AppDelegate.o
+x/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_AppDelegate.m761b20d759f7b641^5f4354d759f7b641^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_AppDelegate.m0000000000000000^4795"CompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_AppDelegate.o StaveInvaders/SI_AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -include /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-efhmxybxajelmraglrtivysmlztj/StaveInvaders-Prefix.pch -MMD -MT dependencies -MF /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_AppDelegate.d --serialize-diagnostics /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_AppDelegate.dia -c /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_AppDelegate.m -o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_AppDelegate.o36"A9FFBB2A-6920-46A7-BC0B-CD58AA4954E2-
+
+CCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_GUIHandler.o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_GUIHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385309143.330239
+e385309143.381585
+r1
+xCompileC
+xBuild/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_GUIHandler.o
+x/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_GUIHandler.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_GUIHandler.ma3af54d759f7b641^14b061d759f7b641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_GUIHandler.m0000000000000000^4789"CompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_GUIHandler.o StaveInvaders/SI_GUIHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -include /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-efhmxybxajelmraglrtivysmlztj/StaveInvaders-Prefix.pch -MMD -MT dependencies -MF /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_GUIHandler.d --serialize-diagnostics /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_GUIHandler.dia -c /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_GUIHandler.m -o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_GUIHandler.o36"EA979C93-148B-422E-9CD5-306131784975-
+
+CCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_ViewController.o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385309143.283654
+e385309143.378031
+r1
+xCompileC
+xBuild/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_ViewController.o
+x/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_ViewController.m022d49d759f7b641^4cc760d759f7b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_ViewController.m0000000000000000^4813"CompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_ViewController.o StaveInvaders/SI_ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -include /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-efhmxybxajelmraglrtivysmlztj/StaveInvaders-Prefix.pch -MMD -MT dependencies -MF /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_ViewController.d --serialize-diagnostics /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_ViewController.dia -c /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/SI_ViewController.m -o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/SI_ViewController.o36"7687727E-CAB9-4EF8-9635-84116CBDA22E-
+
+CCompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385309143.124396
+e385309143.282397
+r1
+xCompileC
+xBuild/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o
+x/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/main.md2fe1fd759f7b641^1d5a48d759f7b641^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/main.m0000000000000000^4735"CompileC Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o StaveInvaders/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -include /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-efhmxybxajelmraglrtivysmlztj/StaveInvaders-Prefix.pch -MMD -MT dependencies -MF /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.d --serialize-diagnostics /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.dia -c /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/main.m -o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/main.o36"C5D58A4B-2604-40C5-A4B5-B69272999403-
+
+CCopyStringsFile /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/InfoPlist.strings StaveInvaders/en.lproj/InfoPlist.strings
+s385309144.667203
+e385309144.817652
+r1
+xCopyStringsFile
+x/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/InfoPlist.strings
+xStaveInvaders/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy StaveInvaders/en.lproj/InfoPlist.strings22e2aad859f7b641^6b66d1d859f7b641^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/en.lproj/InfoPlist.strings0000000000000000^755"CopyStringsFile Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/InfoPlist.strings StaveInvaders/en.lproj/InfoPlist.strings    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj -- StaveInvaders/en.lproj/InfoPlist.strings36"65DB5002-A90A-4B90-ACC8-1B613814464C-
+
+CCpResource StaveInvaders/Default-568h@2x.png Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default-568h@2x.png
+s385309144.752209
+e385309144.761931
+r1
+xCpResource
+xStaveInvaders/Default-568h@2x.png
+xBuild/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default-568h@2x.png93a7c0d859f7b641^8e21d0d859f7b641^---0#0#0#-19%DVTDocumentLocation2@198"file://localhost/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default-568h@2x.png000000000080d041^833"CpResource "StaveInvaders/Default-568h@2x.png" "Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default-568h@2x.png"    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/Default-568h@2x.png" /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app36"FF92CE36-782C-484E-AD30-3191CD4A295B-
+
+CCpResource StaveInvaders/Default.png Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default.png
+s385309144.667919
+e385309144.740102
+r1
+xCpResource
+xStaveInvaders/Default.png
+xBuild/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default.pngfc18abd859f7b641^febacfd859f7b641^---0#0#0#-19%DVTDocumentLocation2@190"file://localhost/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default.png000000000080d041^803"CpResource StaveInvaders/Default.png Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default.png    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/Default.png /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app36"8CD467C3-65EA-4B02-9287-0757E1182765-
+
+CCpResource StaveInvaders/Default@2x.png Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default@2x.png
+s385309144.741451
+e385309144.750922
+r1
+xCpResource
+xStaveInvaders/Default@2x.png
+xBuild/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default@2x.png9df1bdd859f7b641^8bc1cfd859f7b641^---0#0#0#-19%DVTDocumentLocation2@193"file://localhost/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default@2x.png000000000080d041^818"CpResource "StaveInvaders/Default@2x.png" "Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Default@2x.png"    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/Default@2x.png" /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app36"2B5B3206-1A20-4B36-8815-A1B46B7FB0FA-
+
+CCpResource StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPad.storyboard
+s385309144.772142
+e385309144.779648
+r1
+xCpResource
+xStaveInvaders/en.lproj/MainStoryboard_iPad.storyboard
+xBuild/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPad.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Copy Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPad.storyboard26c3c5d859f7b641^e129d0d859f7b641^---0#0#0#-19%DVTDocumentLocation2@218"file://localhost/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPad.storyboard000000000080d041^896"CpResource StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPad.storyboard    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPad.storyboard /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj36"8ABC3D17-1F43-4413-B149-9BAFC89F2909-
+
+CCpResource StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPhone.storyboard
+s385309144.763241
+e385309144.770830
+r1
+xCpResource
+xStaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard
+xBuild/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPhone.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Copy Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPhone.storyboarde277c3d859f7b641^ab26d0d859f7b641^---0#0#0#-19%DVTDocumentLocation2@220"file://localhost/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPhone.storyboard000000000080d041^902"CpResource StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj/MainStoryboard_iPhone.storyboard    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/en.lproj/MainStoryboard_iPhone.storyboard /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/en.lproj36"F8C283C0-4CDB-43DD-84E2-9AA890E99665-
+
+CGenerateDSYMFile /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders
+s385309144.488767
+e385309144.651380
+r1
+xGenerateDSYMFile
+x/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM
+x/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection178"Generating /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM48347dd859f7b641^91efa6d859f7b641^---0#0#0#-19%DVTDocumentLocation2@183"file://localhost/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM000000000080d041^924"GenerateDSYMFile Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders -o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app.dSYM36"777673DA-EAB3-4FD1-A2CA-F638F976E737-
+
+CLd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders normal i386
+s385309143.388796
+e385309144.479065
+r1
+xLd
+x/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection181"Link /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders59a263d759f7b641^dfa77ad859f7b641^---0#0#0#--1584"Ld Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders normal i386    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -F/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator -filelist /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/Objects-normal/i386/StaveInvaders.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/StaveInvaders36"586C0F95-35F6-4F61-B73D-3D4997C57464-
+
+CProcessInfoPlistFile /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist StaveInvaders/StaveInvaders-Info.plist
+s385309142.621094
+e385309142.673388
+r1
+xProcessInfoPlistFile
+x/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist
+xStaveInvaders/StaveInvaders-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process StaveInvaders/StaveInvaders-Info.plistfc189fd659f7b641^e1cfacd659f7b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/StaveInvaders-Info.plist0000000000000000^926"ProcessInfoPlistFile Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist StaveInvaders/StaveInvaders-Info.plist    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility StaveInvaders/StaveInvaders-Info.plist -genpkginfo /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app/Info.plist36"E1FECD00-FC44-4FDD-A6CC-DAD0C2E95C1F-
+
+CProcessPCH /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-efhmxybxajelmraglrtivysmlztj/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385309142.683022
+e385309143.117509
+r1
+xProcessPCH
+x/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-efhmxybxajelmraglrtivysmlztj/StaveInvaders-Prefix.pch.pth
+xStaveInvaders/StaveInvaders-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile StaveInvaders/StaveInvaders-Prefix.pch3f02afd659f7b641^f2271ed759f7b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/StaveInvaders-Prefix.pch0000000000000000^4581"ProcessPCH Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-efhmxybxajelmraglrtivysmlztj/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-generated-files.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-own-target-headers.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-all-target-headers.hmap -iquote /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/StaveInvaders-project-headers.hmap -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources/i386 -I/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/StaveInvaders.build/Debug-iphonesimulator/StaveInvaders.build/DerivedSources -F/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-efhmxybxajelmraglrtivysmlztj/StaveInvaders-Prefix.pch.dia -c /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/StaveInvaders/StaveInvaders-Prefix.pch -o /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-efhmxybxajelmraglrtivysmlztj/StaveInvaders-Prefix.pch.pth -MMD -MT dependencies -MF /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Intermediates/PrecompiledHeaders/StaveInvaders-Prefix-efhmxybxajelmraglrtivysmlztj/StaveInvaders-Prefix.pch.d36"677EAE5C-0FC5-4AD4-8EF6-1F8F9D3B94A0-
+
+CProcessPCH /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Index/PrecompiledHeaders/StaveInvaders-Prefix-ayrwhijhmqyuqtezwtebepuiypuf_ast/StaveInvaders-Prefix.pch.pth StaveInvaders/StaveInvaders-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app
+s385309144.826502
+e385309144.833459
+r1
+xTouch
+x/Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection168"Touch /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app87a7d3d859f7b641^8d5ed5d859f7b641^---0#0#0#--556"Touch Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app    cd /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Network/Servers/ngen-fet01.campus.ads.uwe.ac.uk/users/sj3-hunt/Documents/StaveInvaders/Build/StaveInvaders/Build/Products/Debug-iphonesimulator/StaveInvaders.app36"91194D0D-1F27-484A-8CEC-166C8B1744E2-
+
